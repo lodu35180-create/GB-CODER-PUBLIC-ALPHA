@@ -1,6 +1,6 @@
 # GB Coder - AI-Powered Code Playground
 
-![GB Coder Banner](tghjkl.jpeg)
+![GB Coder Banner](profile.jpeg)
 
 <div align="center">
 
